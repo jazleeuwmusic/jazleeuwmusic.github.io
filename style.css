@@ -89,6 +89,9 @@ ol {
   ol li {
     list-style: none; }
 
+#vd {height: 350px;
+    width: 100%;}
+
 img {
   height: auto;
   max-width: 100%; }
